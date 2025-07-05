@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b3994597-114e-4c3d-9ff1-286e6e6b9300)
 # 🛒 Blinkit Sales Performance Dashboard (Power BI)
 
 This project is a **Power BI dashboard** built to analyze product sales, customer ratings, and outlet performance for **Blinkit** (a simulated grocery app). It enables stakeholders to track KPIs such as total sales, average sales, number of items, and outlet-wise trends to support data-driven decision-making.
